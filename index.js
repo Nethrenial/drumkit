@@ -40,7 +40,7 @@ function handleclick() {
       snare.play();
 
       break;
-      default: console.log(this.innerHTML);
+      default: 
 
 
   }
@@ -84,7 +84,7 @@ document.addEventListener("keydown",function(event){
       snare.play();
 
       break;
-      default: console.log(this.innerHTML);
+      default: 
 
 
   }
